@@ -5,6 +5,6 @@
 
   # lynalllab's Website
 
-  Visit **[www.biomindlab.co.uk](http://www.biomindlab.co.uk)** 🚀
+  Visit **[biomindlab.co.uk](http://biomindlab.co.uk)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
