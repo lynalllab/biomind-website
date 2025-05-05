@@ -1,1 +1,1 @@
-Sitemap: http://biomindlab.co.uk/sitemap.xml
+Sitemap: https://lynalllab.github.io/biomind-website/sitemap.xml
