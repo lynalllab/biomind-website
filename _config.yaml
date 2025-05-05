@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: lynalllab
+title: Cambridge-Oxford BioMind Lab
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: Functional genomics and immunogenetics at the brain-immune interface — identifying mechanisms, biomarkers, and therapeutic targets
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
@@ -9,11 +9,11 @@ proofer: false
 # site social media and other links
 links:
   email: contact@lynalllab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: lynalllab
-  twitter: lynalllab
-  youtube: lynalllab
+  orcid: 0000-0002-1939-7525
+  google-scholar: https://scholar.google.com/citations?user=OrVnEPUAAAAJ&hl=en&oi=ao
+  github: https://github.com/lynalllab
+  twitter: @MLynall
+#  youtube: lynalllab
 
 ### jekyll settings
 
