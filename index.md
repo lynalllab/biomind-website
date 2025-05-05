@@ -11,7 +11,7 @@ Functional genomics and immunogenetics at the brain-immune interface — identif
 
 {% capture text %}
 
-Coming soon -just testing preivew
+Coming soon 
 
 {%
   include button.html
