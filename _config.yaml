@@ -1,20 +1,19 @@
 # site properties and page defaults
-
-title: The Cambridge-Oxford BioMind Lab
-subtitle: 
-description: "Functional genomics and immunogenetics at the brain-immune interface — identifying mechanisms, biomarkers, and therapeutic targets"
+title: Lab Website Template
+subtitle: by the Greene Lab
+description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@lynalllab.com
+  email: contact@your-lab.com
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
-  github: lynalllab
-  twitter: @MLynall
-  youtube: lynalllab
+  github: your-lab
+  twitter: YourLabHandle
+  youtube: YourLabChannel
 
 ### jekyll settings
 
