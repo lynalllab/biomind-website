@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: The BioMind Lab
+subtitle: At the University of Cambridge and University of Oxford
+description: "Functional genomics and immunogenetics at the brain-immune interface — identifying mechanisms, biomarkers, and therapeutic targets"
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
@@ -9,10 +9,10 @@ proofer: false
 # site social media and other links
 links:
   email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
+  orcid: 0000-0002-1939-7525
+  google-scholar: OrVnEPUAAAAJ
+  github: lynalllab
+  twitter: MLynall
   youtube: YourLabChannel
 
 ### jekyll settings
