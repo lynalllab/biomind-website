@@ -1,5 +1,79 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.05.01.25326802
+  title: Systematic review and mega-analysis of the peripheral blood transcriptome
+    in depression implicates dysregulation of lymphoid cells and histones
+  authors:
+  - Chaitanya Erady
+  - Richard A.I. Bethlehem
+  - Ed T Bullmore
+  - Mary-Ellen Lynall
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-05-05'
+  link: https://doi.org/g9hhn9
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:40209005
+  title: How does cancer affect motivation?
+  authors:
+  - Jeffrey W Dalley
+  - Mary-Ellen Lynall
+  publisher: Science (New York, N.Y.)
+  date: '2025-04-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40209005
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ppr:PPR973163
+  title: 'The Psychiatric Genomics Consortium: Discoveries and Direction'
+  authors:
+  - Arpana Agrawal
+  - Cynthia Bulik
+  - Dawit Shawel Abebe
+  - Ole Andreassen
+  - Elizabeth Atkinson
+  - Karmel Choi
+  - Aiden Corvin
+  - Helena Davies
+  - Lea Davis
+  - Anna Docherty
+  - Howard Edenberg
+  - Barbara Franke
+  - Joel Gelernter
+  - Paola Giusti-Rodriguez
+  - John Hettema
+  - Jens Hjerling-Leffler
+  - Hailiang Huang
+  - Emma Johnson
+  - Cathryn Lewis
+  - Mary-Ellen Lynall
+  - Andrew Mcintosh
+  - Janitza Montalvo-Ortiz
+  - Niamh Mullins
+  - Caroline Nievergelt
+  - "Kevin O\u2019Connell"
+  - "Michael O\u2019Donovan"
+  - Adeniran Okewole
+  - Roseann Elizabeth Peterson
+  - Danielle Posthuma
+  - Jonathan Sebat
+  - Jordan Smoller
+  - Reeteka Sud
+  - Biju Viswanath
+  - James Walters
+  - Hyejung Won
+  - Lu Yi
+  - Patrick Sullivan
+  publisher: ''
+  date: '2025-01-01'
+  link: https://doi.org/10.31234/osf.io/xykj2_v1
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.08.30.610447
   title: Chronic social defeat stress induces meningeal neutrophilia via type I interferon
     signaling
@@ -22,6 +96,62 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2024-08-31'
   link: https://doi.org/g9hf8q
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:38438352
+  title: 'Hot metacognition: poorer metacognitive efficiency following acute but not
+    traumatic stress.'
+  authors:
+  - Alicia J Smith
+  - James A Bisby
+  - Quentin Dercon
+  - Anna Bevan
+  - Stacey L Kigar
+  - Mary-Ellen Lynall
+  - Tim Dalgleish
+  - Caitlin Hitchcock
+  - Camilla L Nord
+  publisher: Translational psychiatry
+  date: '2024-03-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38438352
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:37777851
+  title: The Heterogeneity of Depression.
+  authors:
+  - Mary-Ellen Lynall
+  - Andrew M McIntosh
+  publisher: The American journal of psychiatry
+  date: '2023-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37777851
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:36882404
+  title: Early-life stress biases responding to negative feedback and increases amygdala
+    volume and vulnerability to later-life stress.
+  authors:
+  - Ethan G Dutcher
+  - Laura Lopez-Cruz
+  - E A Claudia Pama
+  - Mary-Ellen Lynall
+  - Iris C R Bevers
+  - Jolyon A Jones
+  - Shahid Khan
+  - Stephen J Sawiak
+  - Amy L Milton
+  - Menna R Clatworthy
+  - Trevor W Robbins
+  - Edward T Bullmore
+  - Jeffrey W Dalley
+  publisher: Translational psychiatry
+  date: '2023-03-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36882404
   orcid: 0000-0002-1939-7525
   member: maryellenlynall
   plugin: orcid.py
@@ -77,26 +207,139 @@
   member: maryellenlynall
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2021.08.04.21261606
-  title: Genetic variants associated with cross-disorder and disorder-specific risk
-    for psychiatric disorders are enriched at epigenetically active sites in peripheral
-    lymphoid cells
+- id: pmid:34371135
+  title: B-cells are abnormal in psychosocial stress and regulate meningeal myeloid
+    cell activation.
   authors:
   - Mary-Ellen Lynall
-  - Blagoje Soskic
-  - James Hayhurst
-  - Jeremy Schwartzentruber
-  - Daniel F. Levey
-  - Gita A. Pathak
-  - Renato Polimanti
-  - Joel Gelernter
-  - Murray B. Stein
-  - Gosia Trynka
-  - Menna R. Clatworthy
-  - Ed Bullmore
-  publisher: Cold Spring Harbor Laboratory
+  - Stacey L Kigar
+  - Michael L Lehmann
+  - Allison E DePuyt
+  - Zewen Kelvin Tuong
+  - Samuel J Listwak
+  - Abdel G Elkahloun
+  - Edward T Bullmore
+  - Miles Herkenham
+  - Menna R Clatworthy
+  publisher: Brain, behavior, and immunity
   date: '2021-08-08'
-  link: https://doi.org/g9hf8t
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34371135
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:34450247
+  title: Dysconnectivity of a brain functional network was associated with blood inflammatory
+    markers in depression.
+  authors:
+  - Athina R Aruldass
+  - Manfred G Kitzbichler
+  - Sarah E Morgan
+  - Sol Lim
+  - Mary-Ellen Lynall
+  - Lorinda Turner
+  - Petra Vertes
+  - Jonathan Cavanagh
+  - Phil Cowen
+  - Carmine M Pariante
+  - Neil A Harrison
+  - Edward T Bullmore
+  publisher: Brain, behavior, and immunity
+  date: '2021-08-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34450247
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:34294682
+  title: No evidence for differential gene expression in major depressive disorder
+    PBMCs, but robust evidence of elevated biological ageing.
+  authors:
+  - John J Cole
+  - Alison McColl
+  - Robin Shaw
+  - Mary-Ellen Lynall
+  - Philip J Cowen
+  - Peter de Boer
+  - Wayne C Drevets
+  - Neil Harrison
+  - Carmine Pariante
+  - Linda Pointon
+  - Carl Goodyear
+  - Edward Bullmore
+  - Jonathan Cavanagh
+  publisher: Translational psychiatry
+  date: '2021-07-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34294682
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ppr:PPR222070
+  title: Methylome-wide association study of antidepressant use in Generation Scotland
+    and the Netherlands Twin Register implicates the innate immune syste
+  authors:
+  - MC Barbu
+  - F. Huider
+  - A. Campbell
+  - C. Amador
+  - MJ Adams
+  - ME Lynall
+  - DM Howard
+  - RM Walker
+  - SW Morris
+  - Dongen J. Van
+  - DJ Porteous
+  - KL Evans
+  - E. Bullmore
+  - G. Willemsen
+  - DI Boomsma
+  - HC Whalley
+  - AM McIntosh
+  publisher: ''
+  date: '2020-01-01'
+  link: https://doi.org/10.1101/2020.10.06.20207621
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:32950620
+  title: 'Inflammatory and cardiometabolic markers at presentation with first episode
+    psychosis and long-term clinical outcomes: A longitudinal study using electronic
+    health records.'
+  authors:
+  - Emanuele F Osimo
+  - Benjamin I Perry
+  - Rudolf N Cardinal
+  - Mary-Ellen Lynall
+  - Jonathan Lewis
+  - Arti Kudchadkar
+  - Graham K Murray
+  - Jesus Perez
+  - Peter B Jones
+  - Golam M Khandaker
+  publisher: Brain, behavior, and immunity
+  date: '2020-09-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32950620
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:33447663
+  title: 'Early-life stress and inflammation: A systematic review of a key experimental
+    approach in rodents.'
+  authors:
+  - Ethan G Dutcher
+  - E A Claudia Pama
+  - Mary-Ellen Lynall
+  - Shahid Khan
+  - Menna R Clatworthy
+  - Trevor W Robbins
+  - Edward T Bullmore
+  - Jeffrey W Dalley
+  publisher: Brain and neuroscience advances
+  date: '2020-12-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33447663
   orcid: 0000-0002-1939-7525
   member: maryellenlynall
   plugin: orcid.py
@@ -121,31 +364,6 @@
   publisher: Biological psychiatry
   date: '2019-12-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32000983
-  orcid: 0000-0002-1939-7525
-  member: maryellenlynall
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/706309
-  title: Peripheral blood cell immunophenotyping reveals distinct subgroups of inflamed
-    depression
-  authors:
-  - Mary-Ellen Lynall
-  - Lorinda Turner
-  - Junaid Bhatti
-  - Jonathan Cavanagh
-  - Peter de Boer
-  - Valeria Mondelli
-  - Declan Jones
-  - Wayne C. Drevets
-  - Philip Cowen
-  - Neil A. Harrison
-  - Carmine M. Pariante
-  - Linda Pointon
-  - Menna R. Clatworthy
-  - Ed Bullmore
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-07-18'
-  link: https://doi.org/gkt6dd
   orcid: 0000-0002-1939-7525
   member: maryellenlynall
   plugin: orcid.py
