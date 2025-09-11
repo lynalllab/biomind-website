@@ -1,6 +1,7 @@
 ---
 name: Isabelle McGrath
 image: images/photo_IsabelleMcGrath.jpeg
+description: Post-doctoral researcher
 role: postdoc
 affiliation: University of Oxford
 <! group: alum >
