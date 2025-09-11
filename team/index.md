@@ -17,7 +17,7 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-<! COULD HAVE TEXT HERE >
+<!-- COULD HAVE TEXT HERE -->
 
 {% include section.html %}
 
