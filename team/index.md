@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-<! COULD HAVE TEXT HERE >
+<!-- COULD HAVE TEXT HERE -->
 
 {% include section.html %}
 
