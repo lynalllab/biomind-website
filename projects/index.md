@@ -15,7 +15,7 @@ nav:
 
 {% include section.html %}
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projects" filter="!group" %}
 
 {% comment %} 
 
