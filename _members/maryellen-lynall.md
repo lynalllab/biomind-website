@@ -7,6 +7,7 @@ aliases:
   - M.E. Lynall
   - ME Lynall
   - Mary-Ellen Lynall
+  - M Lynall
 links:
   home-page: https://sites.google.com/site/maryellenlynall/curriculum-vitae
   orcid: 0000-0002-1939-7525
