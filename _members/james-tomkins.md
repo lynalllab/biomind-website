@@ -1,6 +1,7 @@
 ---
 name: James Tomkins
 image: images/photo_tomkins.jpg
+description: Post-doctoral researcher
 role: postdoc
 affiliation: University of Cambridge
 <! group: alum >
