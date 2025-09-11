@@ -24,7 +24,7 @@
   group: 
   image: 
   link: 
-  description: As part of this project, we are using immunophenotyping and immnogenetics to discover how genetic risks and immune factors interact over development to lead to anxiety disorders.
+  description: As part of this project, we are using immunophenotyping and immnogenetics to discover how genetic risks and immune factors interact over development to lead to anxiety disorders. As part of this we are enriching the [C-GULL newborn birth cohort](https://www.cgullstudy.com) with childhood immunophenotyping and proteomic data.
   repo: 
   tags:
     - project
