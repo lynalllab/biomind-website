@@ -29,4 +29,4 @@ nav:
 
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
 
-{% comment %} 
+{% endcomment %} 
