@@ -1,12 +1,64 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41467-025-62840-5
+  title: Chronic social defeat stress induces meningeal neutrophilia via type I interferon
+    signaling in male mice
+  authors:
+  - Stacey L. Kigar
+  - Mary-Ellen Lynall
+  - Allison E. DePuyt
+  - Robert Atkinson
+  - Virginia H. Sun
+  - Joshua D. Samuels
+  - Nicole E. Eassa
+  - Chelsie N. Poffenberger
+  - Michael L. Lehmann
+  - Samuel J. Listwak
+  - Ferenc Livak
+  - Abdel G. Elkahloun
+  - Menna R. Clatworthy
+  - Edward T. Bullmore
+  - Miles Herkenham
+  publisher: Nature Communications
+  date: '2025-09-01'
+  link: https://doi.org/g9z5sc
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.08.19.25333784
+  title: 'Decoding Treatment Choice: Genetic and Phenotypic Analyses of Long-term
+    Antidepressant Acceptability'
+  authors:
+  - Alicia Walker
+  - Brittany L. Mitchell
+  - Tian Lin
+  - Jacob J. Crouse
+  - Clara Albinana
+  - Chloe X. Yap
+  - Mary Ellen Lynall
+  - Penelope A. Lind
+  - Andrea Cipriani
+  - Enda M. Byrne
+  - Sarah E Medland
+  - Nicholas G. Martin
+  - Maxime Taquet
+  - Ian B. Hickie
+  - Naomi R. Wray
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-08-21'
+  link: https://doi.org/g93chs
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.05.01.25326802
   title: Systematic review and mega-analysis of the peripheral blood transcriptome
     in depression implicates dysregulation of lymphoid cells and histones
   authors:
   - Chaitanya Erady
-  - Richard A.I. Bethlehem
-  - Ed T Bullmore
+  - Richard Bethlehem
+  - Ed Bullmore
   - Mary-Ellen Lynall
   publisher: Cold Spring Harbor Laboratory
   date: '2025-05-05'
@@ -284,6 +336,7 @@
   - A. Campbell
   - C. Amador
   - MJ Adams
+  - ME Lynall
   - ME Lynall
   - DM Howard
   - RM Walker
