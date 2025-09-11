@@ -1,7 +1,7 @@
 - title: Cambridge Textbook of Neuroscience for Psychiatrists
   subtitle: Lynall, Jones and Stahl, 2024
   group: 
-  image: images/photo_CTNP.jpg
+  image: images/photo_CNTP.jpg
   link: https://www.amazon.co.uk/Cambridge-Textbook-Neuroscience-Psychiatrists-Mary-Ellen/dp/1911623117/ref=sr_1_1?crid=3U1QPABBZTM01&dib=eyJ2IjoiMSJ9.bgyyBsw_wBU7D8bV_YOl584RoKKwjPTQCXGbe3FXPo-60R_J4QgduoSeY8EWn5Zp.UZrVazgvtcoKb3r8JNmf3i9PnTbl17BvU8mSCoS-iZc&dib_tag=se&keywords=cambridge+textbook+neuroscience+psychiatrists&qid=1757588616&sprefix=cambridge+textbook+neuroscience+psychaitrsists%2Caps%2C88&sr=8-1
   description: We are keen for any feedback on the textbook via issues submitted on the book's github repo.
   repo: maryellenlynall/neuroscience_for_psychiatrists
@@ -21,8 +21,8 @@
 - title: Wellcome Trust Anxiomics (2025-2032)
   subtitle: The developmental immune, brain and mind pathways to anxiety disorders
   group: 
-  image: images/XXX
-  link: https://immunomind.org 
+  image: 
+  link: 
   description: As part of this project, we are using immunophenotyping and immnogenetics to discover how genetic risks and immune factors interact over development to lead to anxiety disorders.
   repo: 
   tags:
