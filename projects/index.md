@@ -9,22 +9,24 @@ nav:
 
 <!-- COULD ADD TEXT -->
 
-{% include tags.html tags="publication, resource, website" %}
+<!-- ADD THIS EVENTUALLY FOR FILTERING BUTTONS {% include tags.html tags="publication, resource, website" %} -->
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-{% include list.html component="card" data="projects" %}
+{% include list.html component="card" data="projects" filter="!group" %}
 
-# CUT BELOW
+{% comment %} 
 
 ## Featured
 
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
-{% include section.html %}
+# {% include section.html %}
 
 ## More
 
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
+
+{% comment %} 
