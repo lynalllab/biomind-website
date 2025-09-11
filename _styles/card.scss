@@ -21,9 +21,9 @@
 }
 
 .card-image img {
-  aspect-ratio: 5 / 3;  /* was 3 / 2 */
-  object-fit: cover;
   width: 100%;
+  height: auto;        /* preserve natural aspect ratio */
+  /* no aspect-ratio: 3 / 2 , no object-fit: cover */
   // box-shadow: var(--shadow);
 }
 
