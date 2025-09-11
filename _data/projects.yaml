@@ -1,47 +1,45 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Cambridge Textbook of Neuroscience for Psychiatrists
+  subtitle: Lynall, Jones and Stahl, 2024
+  group: 
+  image: images/photo_CTNP.jpg
+  link: https://www.amazon.co.uk/Cambridge-Textbook-Neuroscience-Psychiatrists-Mary-Ellen/dp/1911623117/ref=sr_1_1?crid=3U1QPABBZTM01&dib=eyJ2IjoiMSJ9.bgyyBsw_wBU7D8bV_YOl584RoKKwjPTQCXGbe3FXPo-60R_J4QgduoSeY8EWn5Zp.UZrVazgvtcoKb3r8JNmf3i9PnTbl17BvU8mSCoS-iZc&dib_tag=se&keywords=cambridge+textbook+neuroscience+psychiatrists&qid=1757588616&sprefix=cambridge+textbook+neuroscience+psychaitrsists%2Caps%2C88&sr=8-1
+  description: We are keen for any feedback on the textbook via issues submitted on the book's github repo.
+  repo: maryellenlynall/neuroscience_for_psychiatrists
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: UKRI ImmunoMind (2024-2029)
+  subtitle: Discovering new immune and metabolic pathways to mental illness and mental health
+  group: 
+  image: images/project_immunomind.png
+  link: https://immunomind.org 
+  description: We are leading the immunophenotyping (scRNAseq) and immnogenetics workpackage for this project as part of a collaborative consortium of researchers and lived experience contributors.
+  repo: 
   tags:
-    - resource
+    - project
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Wellcome Trust Anxiomics (2025-2032)
+  subtitle: The developmental immune, brain and mind pathways to anxiety disorders
+  group: 
+  image: images/XXX
+  link: https://immunomind.org 
+  description: As part of this project, we are using immunophenotyping and immnogenetics to discover how genetic risks and immune factors interact over development to lead to anxiety disorders.
+  repo: 
   tags:
-    - resource
-    - publication
+    - project
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Infections and mood
+  subtitle: We are exploring the links between infections and mood, as well as their omic mediators, using large scale biomanks.
+  group: 
+  image: images/XXX
+  link: 
+  description:
+  repo: 
+  tags:
+    - project
+
+
+<!
   tags:
     - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+>
