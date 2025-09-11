@@ -15,6 +15,8 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 {% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and role != 'postdoc'" %}
 
+{% comment %}
+
 {% include section.html background="images/background.jpg" dark=true %}
 
 <!-- COULD HAVE TEXT HERE -->
@@ -30,3 +32,4 @@ nav:
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+{% endcomment %}
