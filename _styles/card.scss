@@ -21,6 +21,7 @@
 }
 
 .card-image img {
+  display: block;
   width: 100%;
   height: auto;        /* preserve natural aspect ratio */
   /* no aspect-ratio: 3 / 2 , no object-fit: cover */
