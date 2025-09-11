@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Group publications and previous work by M Lynall that has influenced our team's focus.
+Team publications
 
 {% include section.html %}
 
