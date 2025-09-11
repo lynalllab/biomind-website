@@ -8,7 +8,7 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
+#  email: contact@your-lab.com
   orcid: 0000-0002-1939-7525
   google-scholar: OrVnEPUAAAAJ
   github: lynalllab
