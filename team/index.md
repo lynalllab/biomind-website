@@ -14,7 +14,7 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and role != 'postdoc'" and role != 'phd'" %}
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and role != 'postdoc' and role != 'phd'" %}
 
 {% comment %}
 
