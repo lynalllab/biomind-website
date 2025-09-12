@@ -1,7 +1,7 @@
 ---
 name: Talia Elgie
 affiliation: University of Cambridge
-image: images/photo_TaliaElgie.jpg
+image: images/photo_TaliaElgie.jpeg
 description: PhD student
 role: phd
 links:
