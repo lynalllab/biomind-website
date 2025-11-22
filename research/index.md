@@ -13,11 +13,13 @@ Team publications
 
 ## Highlighted
 
+{% include citation.html lookup="doi:10.31234/osf.io/vkq2c_v1" style="rich" %}
+
 {% include citation.html lookup="Systematic review and mega-analysis" style="rich" %}
 
 {% include citation.html lookup="epigenetically active sites in lymphoid cells" style="rich" %}
 
-{% include citation.html lookup="Chronic social defeat stress induces meningeal neutrophilia via type I interferon signaling" style="rich" %}
+{% include citation.html lookup="Chronic social defeat stress induces meningeal neutrophilia" style="rich" %}
 
 {% include citation.html lookup="Peripheral Blood Cell-Stratified Subgroups" style="rich" %}
 
