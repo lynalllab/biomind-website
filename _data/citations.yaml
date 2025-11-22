@@ -1,5 +1,51 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.11.13.688353
+  title: Inflammatory profiles of transdiagnostic symptom dimensions in healthy females
+  authors:
+  - Alicia J. Smith
+  - Stacey Kigar
+  - Quentin Dercon
+  - Mary-Ellen Lynall
+  - Konstantinos Ioannidis
+  - Muzaffer Kaser
+  - Caitlin Hitchcock
+  - Tim Dalgleish
+  - Camilla L. Nord
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-11-14'
+  link: https://doi.org/hbb67z
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/vkq2c_v1
+  title: 'Immune dysfunction in psychiatric disorders: emerging genomic insights'
+  authors:
+  - Isabelle McGrath
+  - Mary-Ellen Lynall
+  publisher: Center for Open Science
+  date: '2025-10-16'
+  link: https://doi.org/hbb672
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.17863/cam.121913
+  title: Systematic review and mega-analysis of the peripheral blood transcriptome
+    in depression implicates dysregulation of lymphoid cells and histones.
+  authors:
+  - Chaitanya Erady
+  - Richard Bethlehem
+  - Edward Bullmore
+  - Mary-Ellen Lynall
+  publisher: Elsevier
+  date: '2025-10-03'
+  link: https://doi.org/hbb673
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-025-62840-5
   title: Chronic social defeat stress induces meningeal neutrophilia via type I interferon
     signaling in male mice
@@ -22,6 +68,21 @@
   publisher: Nature Communications
   date: '2025-09-01'
   link: https://doi.org/g9z5sc
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.biopsych.2025.09.008
+  title: Systematic Review and Mega-Analysis of the Peripheral Blood Transcriptome
+    in Depression Implicates Dysregulation of Lymphoid Cells and Histones
+  authors:
+  - Chaitanya Erady
+  - Richard Bethlehem
+  - Edward Bullmore
+  - Mary-Ellen Lynall
+  publisher: Biological Psychiatry
+  date: '2025-09-01'
+  link: https://doi.org/hbb674
   orcid: 0000-0002-1939-7525
   member: maryellenlynall
   plugin: orcid.py
@@ -122,6 +183,40 @@
   publisher: ''
   date: '2025-01-01'
   link: https://doi.org/10.31234/osf.io/xykj2_v1
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.17605/osf.io/eydvh
+  title: 'DEPICT: Depression, epigenetics, and childhood trauma'
+  authors:
+  - Mary-Ellen Lynall
+  - Stacey Kigar
+  - Ed Bullmore
+  - Simon White
+  - Eric Miska
+  publisher: OSF Registries
+  date: '2025-01-01'
+  link: https://doi.org/hbb675
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.17605/osf.io/yu32e
+  title: 'Specific immunological pathways in psychosis: Protocol for an in-silico,
+    hypothesis-driven analysis'
+  authors:
+  - Mary-Ellen Lynall
+  - John F. W. Deakin
+  - Emanuele F Osimo
+  - Benjamin Perry
+  - Suleyman Noordeen
+  - Stephen Burgess
+  - Neha Abraham
+  - Graham Murray
+  publisher: OSF
+  date: '2025-01-01'
+  link: https://doi.org/hbb676
   orcid: 0000-0002-1939-7525
   member: maryellenlynall
   plugin: orcid.py
@@ -255,6 +350,29 @@
   publisher: Molecular Psychiatry
   date: '2021-12-08'
   link: https://doi.org/g9hf8s
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.17863/cam.74520
+  title: Dysconnectivity of a brain functional network was associated with blood inflammatory
+    markers in depression.
+  authors:
+  - Athina R Aruldass
+  - Manfred G Kitzbichler
+  - Sarah E Morgan
+  - Sol Lim
+  - Mary-Ellen Lynall
+  - Lorinda Turner
+  - Petra Vertes
+  - Jonathan Cavanagh
+  - Phil Cowen
+  - Carmine M Pariante
+  - Neil A Harrison
+  - Edward T Bullmore
+  publisher: Elsevier
+  date: '2021-08-23'
+  link: https://doi.org/hbb677
   orcid: 0000-0002-1939-7525
   member: maryellenlynall
   plugin: orcid.py
@@ -393,6 +511,30 @@
   publisher: Brain and neuroscience advances
   date: '2020-12-28'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33447663
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.17863/cam.46810
+  title: Peripheral Blood Cell-Stratified Subgroups of Inflamed Depression.
+  authors:
+  - Mary-Ellen Lynall
+  - Lorinda Turner
+  - Junaid Bhatti
+  - Jonathan Cavanagh
+  - Peter de Boer
+  - Valeria Mondelli
+  - Declan Jones
+  - Wayne C Drevets
+  - Philip Cowen
+  - Neil A Harrison
+  - Carmine M Pariante
+  - Linda Pointon
+  - Menna R Clatworthy
+  - Edward Bullmore
+  publisher: Elsevier
+  date: '2019-12-12'
+  link: https://doi.org/hbb678
   orcid: 0000-0002-1939-7525
   member: maryellenlynall
   plugin: orcid.py
