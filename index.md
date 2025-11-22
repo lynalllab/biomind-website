@@ -15,6 +15,29 @@ Functional genomics and immunogenetics at the brain-immune interface — identif
 
 {%
   include button.html
+  link="team"
+  text="Meet our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo_team.jpeg"
+  link="team"
+  title="Our Team"
+  text=text
+%}
+
+{% capture text %}
+
+<!-- COULD ADD TEXT -->
+
+{%
+  include button.html
   link="research"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
@@ -57,25 +80,4 @@ Functional genomics and immunogenetics at the brain-immune interface — identif
   text=text
 %}
 
-{% capture text %}
 
-<!-- COULD ADD TEXT -->
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo_team.jpeg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
