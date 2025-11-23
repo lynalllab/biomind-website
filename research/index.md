@@ -13,7 +13,7 @@ BioMind team research, reviews and pre-registrations
 
 ## Highlighted
 
-{% include citation.html lookup="doi:10.31234/osf.io/vkq2c_v1" style="rich" %}
+{% include citation.html lookup="Immune dysfunction in psychiatric disorders: emerging genomic insights" style="rich" %}
 
 {% include citation.html lookup="Systematic review and mega-analysis" style="rich" %}
 
