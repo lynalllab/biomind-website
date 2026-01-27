@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.31234/osf.io/vkq2c_v4
+  title: 'Immune dysfunction in psychiatric disorders: emerging genomic insights'
+  authors:
+  - Isabelle McGrath
+  - Mary-Ellen Lynall
+  publisher: Center for Open Science
+  date: '2026-01-17'
+  link: https://doi.org/hbmkz4
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.11.13.688353
   title: Inflammatory profiles of transdiagnostic symptom dimensions in healthy females
   authors:
@@ -106,7 +118,7 @@
   - Maxime Taquet
   - Ian B. Hickie
   - Naomi R. Wray
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-08-21'
   link: https://doi.org/g93chs
   orcid: 0000-0002-1939-7525
@@ -121,7 +133,7 @@
   - Richard Bethlehem
   - Ed Bullmore
   - Mary-Ellen Lynall
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-05-05'
   link: https://doi.org/g9hhn9
   orcid: 0000-0002-1939-7525
@@ -240,7 +252,7 @@
   - Menna R. Clatworthy
   - Edward T. Bullmore
   - Miles Herkenham
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-08-31'
   link: https://doi.org/g9hf8q
   orcid: 0000-0002-1939-7525
