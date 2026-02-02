@@ -1,8 +1,8 @@
 ---
 name: Dennis Nagy
 image: images/photo_DennisNagy.jpg
-description: Research assistant
-role: research-assistant
+description: Administrator
+role: administrator
 affiliation: University of Cambridge
 links:
   orcid: 
