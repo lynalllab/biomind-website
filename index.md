@@ -98,7 +98,7 @@ Functional genomics and immunogenetics at the brain-immune interface — identif
 {%
   include feature.html
   image="images/photo_lived_experience.jpg"
-  link="Lived experience"
+  link="pwle"
   title=""
   flip=true
   style="bare"
