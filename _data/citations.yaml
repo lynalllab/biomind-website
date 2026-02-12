@@ -233,6 +233,16 @@
   member: maryellenlynall
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.17615/79bv-9572
+  title: 'The Psychiatric Genomics Consortium: discoveries and directions'
+  authors: []
+  publisher: Elsevier
+  date: '2025-01-01'
+  link: https://doi.org/hbn9rw
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.08.30.610447
   title: Chronic social defeat stress induces meningeal neutrophilia via type I interferon
     signaling
