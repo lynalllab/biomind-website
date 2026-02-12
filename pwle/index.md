@@ -1,3 +1,10 @@
+---
+title: Lived experience
+nav:
+  order: 2
+  tooltip: Getting involved
+---
+
 {% include icon.html icon="fa-solid fa-wrench" %}Lived experience? Express interest!
 
 {% include search-info.html %}
