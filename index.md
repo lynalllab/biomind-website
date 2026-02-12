@@ -80,4 +80,30 @@ Functional genomics and immunogenetics at the brain-immune interface — identif
   text=text
 %}
 
+{% capture text %}
+
+<!-- COULD ADD TEXT -->
+
+{%
+  include button.html
+  link="Lived experience? Express interest!"
+  text="Express interest in contributing to Open Psychiatry Project"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo_lived_experience.jpg"
+  link="Lived experience"
+  title=""
+  flip=true
+  style="bare"
+  text=text
+%}
+
+
 
