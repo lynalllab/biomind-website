@@ -24,7 +24,7 @@
   - Caitlin Hitchcock
   - Tim Dalgleish
   - Camilla L. Nord
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-11-14'
   link: https://doi.org/hbb67z
   orcid: 0000-0002-1939-7525
@@ -44,8 +44,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.17863/cam.121913
-  title: Systematic review and mega-analysis of the peripheral blood transcriptome
-    in depression implicates dysregulation of lymphoid cells and histones.
+  title: Systematic Review and Mega-Analysis of the Peripheral Blood Transcriptome
+    in Depression Implicates Dysregulation of Lymphoid Cells and Histones.
   authors:
   - Chaitanya Erady
   - Richard Bethlehem
