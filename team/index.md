@@ -18,7 +18,7 @@ nav:
 
 {% comment %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/team_lab_photo_2026.jpg" dark=true %}
 
 <!-- COULD HAVE TEXT HERE -->
 
