@@ -1,5 +1,39 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.gde.2026.102467
+  title: 'Immune dysfunction in psychiatric disorders: emerging genomic insights'
+  authors:
+  - Isabelle M McGrath
+  - Mary-Ellen Lynall
+  publisher: Current Opinion in Genetics &amp; Development
+  date: '2026-06-01'
+  link: https://doi.org/hbwx77
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2026.03.30.26349276
+  title: The dynamics of glutamate receptor subunit GluN1 concentration in urinary
+    astrocyte-derived extracellular vesicles from a patient with anti-NMDAR encephalitis
+  authors:
+  - Junhua Mei
+  - Mian-mian Chen
+  - Qing Yang
+  - Shu-xian Xu
+  - Chao Wang
+  - Honggang Lyu
+  - Qian Gong
+  - Zhongchun Liu
+  - Edward Bullmore
+  - Mary-Ellen Lynall
+  - Xin-hui Xie
+  publisher: openRxiv
+  date: '2026-03-31'
+  link: https://doi.org/hbwx78
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.31234/osf.io/vkq2c_v4
   title: 'Immune dysfunction in psychiatric disorders: emerging genomic insights'
   authors:
