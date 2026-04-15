@@ -12,6 +12,18 @@
   member: maryellenlynall
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.17863/cam.127703
+  title: 'Immune dysfunction in psychiatric disorders: emerging genomic insights'
+  authors:
+  - Isabelle McGrath
+  - Mary-Ellen Lynall
+  publisher: Apollo - University of Cambridge Repository
+  date: '2026-04-14'
+  link: https://doi.org/hbw98w
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.64898/2026.03.30.26349276
   title: The dynamics of glutamate receptor subunit GluN1 concentration in urinary
     astrocyte-derived extracellular vesicles from a patient with anti-NMDAR encephalitis
