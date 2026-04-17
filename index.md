@@ -5,6 +5,8 @@
 
 Functional genomics and immunogenetics at the brain-immune interface — identifying mechanisms, biomarkers, and therapeutic targets.
 
+<img src="images/team_lab_photo_2026.jpg" alt="" style="width: 100%; margin: 2rem 0;">
+
 {% include section.html %}
 
 ## Highlights
