@@ -1,8 +1,8 @@
 ---
 name: Birgitta Olofsson
 image: images/Birgitta.jpg
-role: Programme Manager
 description: Programme Manager
+role: Programme Manager
 affiliation: University of Cambridge, and Newnham College
 links:
   LinkedIn: https://www.linkedin.com/in/dr-birgitta-olofsson/ 
