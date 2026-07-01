@@ -42,7 +42,7 @@
 - title: UKRI MRC Open Psychiatry Project (2026-2029)
   subtitle: A single front door to mental health discovery
   group: 
-  image: images/opp.png
+  image: images/OPP.png
   link:  
   description: The Open Psychiatry Project connects isolated medical and omic data through secure, privacy-preserving federation—creating an interactive gateway that empowers patients, academics, and industry to co-produce the future of personalized mental health treatments.
   repo: 
