@@ -6,14 +6,15 @@ nav:
 ---
 
 <div style="
-  background-image: linear-gradient(rgba(255,255,255,0.72), rgba(255,255,255,0.72)), url('/optibio/optibio-bg.png');
-  background-size: cover;
-  background-position: center;
+  background-image: linear-gradient(rgba(255,255,255,0.55), rgba(255,255,255,0.55)), url('/optibio/optibio-bg.png');
+  background-size: contain;
+  background-position: center top;
   background-repeat: no-repeat;
-  padding: 5rem 2rem;
-  border-radius: 18px;
-  margin: 2rem 0 2.5rem 0;
+  background-color: #ffffff;
+  padding: 7rem 2rem 4rem 2rem;
+  margin: 2rem auto 2.5rem auto;
   text-align: center;
+  max-width: 900px;
 ">
 
 <h1 style="font-family: Georgia, serif; text-align: center; font-size: clamp(1.8rem, 4vw, 3.2rem); color: #4b2e83; font-weight: 700; margin: 2.5rem 0 1.5rem 0;">
