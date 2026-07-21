@@ -5,7 +5,7 @@ nav:
   tooltip: Getting involved
 ---
 
-<h1 style="font-family: Georgia, serif; text-align: center; font-size: clamp(2.4rem, 5vw, 4.5rem); color: #4b2e83; font-weight: 700; margin: 2.5rem 0 1.5rem 0;">
+<h1 style="font-family: Georgia, serif; text-align: center; font-size: clamp(1.8rem, 4vw, 3.2rem); color: #4b2e83; font-weight: 700; margin: 2.5rem 0 1.5rem 0;">
   Your cycle can tell an important story.
 </h1>
 
