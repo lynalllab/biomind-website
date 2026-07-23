@@ -80,6 +80,7 @@ nav:
 <div id="optibio-hero">
 
   <div id="optibio-hero-text">
+
     <h1>Your cycle can tell an important story.</h1>
 
     <p>
@@ -93,6 +94,7 @@ nav:
     <p>
       OptiBio will be launching soon. Please check back shortly for more details.
     </p>
+
   </div>
 
   <div id="optibio-hero-image">
