@@ -109,7 +109,7 @@ nav:
   </div>
 
   <div class="optibio-image">
-    <img src="/optibio/optibio-bg.png">
+    <img src="/optibio/optibio-bg-2.png">
   </div>
 
 </div>
