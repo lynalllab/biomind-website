@@ -4,6 +4,7 @@
 # The Cambridge-Oxford BioMind Lab
 
 BioMind Lab | Dr Mary-Ellen Lynall, PI
+
 Mapping the brain-body interface with statistical genomics and biofluid assays — from mechanisms to biomarkers to therapies
 
 <img src="images/team_lab_photo_2026.jpeg" alt="" style="width: 100%; margin: 2rem 0;">
