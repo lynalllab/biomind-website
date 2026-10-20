@@ -1,6 +1,6 @@
 ---
 name: Shuxian Xu
-image: images/
+image: images/Shuxian Xu.jpeg
 affiliation: University of Cambridge
 description: Technical specialist
 role: Technical specialist
