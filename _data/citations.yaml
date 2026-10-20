@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pmid:42708395
+  title: 'Immune dysregulation in depression and psychosis: summary of current evidence
+    and future perspectives.'
+  authors:
+  - Tomas Formanek
+  - Mary-Ellen Lynall
+  - Emanuele Felice Osimo
+  publisher: 'The British journal of psychiatry : the journal of mental science'
+  date: '2026-09-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42708395
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.gde.2026.102467
   title: 'Immune dysfunction in psychiatric disorders: emerging genomic insights'
   authors:
@@ -27,21 +41,9 @@
   member: maryellenlynall
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.17863/cam.127703
-  title: 'Immune dysfunction in psychiatric disorders: emerging genomic insights'
-  authors:
-  - Isabelle McGrath
-  - Mary-Ellen Lynall
-  publisher: Elsevier
-  date: '2026-04-14'
-  link: https://doi.org/hbw98w
-  orcid: 0000-0002-1939-7525
-  member: maryellenlynall
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.64898/2026.03.30.26349276
-  title: The dynamics of glutamate receptor subunit GluN1 concentration in urinary
-    astrocyte-derived extracellular vesicles from a patient with anti-NMDAR encephalitis
+  title: NMDAR subunit GluN1 dynamics in urinary astrocyte-derived extracellular vesicles
+    in anti-NMDAR encephalitis
   authors:
   - Junhua Mei
   - Mian-mian Chen
@@ -61,45 +63,47 @@
   member: maryellenlynall
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.31234/osf.io/vkq2c_v4
-  title: 'Immune dysfunction in psychiatric disorders: emerging genomic insights'
+- id: doi:10.1001/JAMAPSYCHIATRY.2025.4372
+  title: Genetic and Phenotypic Associations With Sustained Antidepressant Use in
+    Major Depressive Disorder
   authors:
-  - Isabelle McGrath
-  - Mary-Ellen Lynall
-  publisher: Center for Open Science
-  date: '2026-01-17'
-  link: https://doi.org/hbmkz4
+  - Alicia Walker
+  - Brittany L. Mitchell
+  - Tian Lin
+  - Jacob J. Crouse
+  - "Clara Albi\xF1ana"
+  - Chloe X. Yap
+  - Mary Ellen Lynall
+  - Penelope A. Lind
+  - Andrea Cipriani
+  - Enda M. Byrne
+  - Sarah E. Medland
+  - Nicholas G. Martin
+  - Maxime Taquet
+  - Ian B. Hickie
+  - Naomi R. Wray
+  publisher: JAMA Psychiatry
+  date: '2026-03-01'
+  link: https://doi.org/hcpc7m
   orcid: 0000-0002-1939-7525
   member: maryellenlynall
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.11.13.688353
-  title: Inflammatory profiles of transdiagnostic symptom dimensions in healthy females
+- id: doi:10.1016/J.BIOPSYCH.2025.11.024
+  title: Integrating Multi-Omics Summary Data Identifies Candidate Molecular Mechanisms
+    for Major Depression
   authors:
-  - Alicia J. Smith
-  - Stacey Kigar
-  - Quentin Dercon
+  - Laurence Nisbet
+  - Yang Wu
+  - Mark Adams
   - Mary-Ellen Lynall
-  - Konstantinos Ioannidis
-  - Muzaffer Kaser
-  - Caitlin Hitchcock
-  - Tim Dalgleish
-  - Camilla L. Nord
-  publisher: openRxiv
-  date: '2025-11-14'
-  link: https://doi.org/hbb67z
-  orcid: 0000-0002-1939-7525
-  member: maryellenlynall
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.31234/osf.io/vkq2c_v1
-  title: 'Immune dysfunction in psychiatric disorders: emerging genomic insights'
-  authors:
-  - Isabelle McGrath
-  - Mary-Ellen Lynall
-  publisher: Center for Open Science
-  date: '2025-10-16'
-  link: https://doi.org/hbb672
+  - Jens Hjerling-Leffler
+  - Naomi R. Wray
+  - Andrew M. McIntosh
+  - Xueyi Shen
+  publisher: Biological Psychiatry
+  date: '2026-06-01'
+  link: https://doi.org/hbgkqt
   orcid: 0000-0002-1939-7525
   member: maryellenlynall
   plugin: orcid.py
@@ -145,43 +149,51 @@
   member: maryellenlynall
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.08.19.25333784
-  title: 'Decoding Treatment Choice: Genetic and Phenotypic Analyses of Long-term
-    Antidepressant Acceptability'
+- id: pmid:40582370
+  title: 'The Psychiatric Genomics Consortium: discoveries and directions.'
   authors:
-  - Alicia Walker
-  - Brittany L. Mitchell
-  - Tian Lin
-  - Jacob J. Crouse
-  - Clara Albinana
-  - Chloe X. Yap
-  - Mary Ellen Lynall
-  - Penelope A. Lind
-  - Andrea Cipriani
-  - Enda M. Byrne
-  - Sarah E Medland
-  - Nicholas G. Martin
-  - Maxime Taquet
-  - Ian B. Hickie
-  - Naomi R. Wray
-  publisher: openRxiv
-  date: '2025-08-21'
-  link: https://doi.org/g93chs
-  orcid: 0000-0002-1939-7525
-  member: maryellenlynall
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2025.05.01.25326802
-  title: Systematic review and mega-analysis of the peripheral blood transcriptome
-    in depression implicates dysregulation of lymphoid cells and histones
-  authors:
-  - Chaitanya Erady
-  - Richard Bethlehem
-  - Ed Bullmore
+  - Arpana Agrawal
+  - Cynthia M Bulik
+  - Dawit Shawel Abebe
+  - Ole A Andreassen
+  - Elizabeth G Atkinson
+  - Karmel W Choi
+  - Aiden Corvin
+  - Helena L Davies
+  - Lea K Davis
+  - Anna R Docherty
+  - Howard J Edenberg
+  - Barbara Franke
+  - Joel Gelernter
+  - "Paola Giusti-Rodr\xEDguez"
+  - John M Hettema
+  - Jens Hjerling-Leffler
+  - Hailiang Huang
+  - Emma C Johnson
+  - Cathryn M Lewis
+  - Yi Lu
   - Mary-Ellen Lynall
-  publisher: openRxiv
-  date: '2025-05-05'
-  link: https://doi.org/g9hhn9
+  - Joanna Martin
+  - Andrew M McIntosh
+  - Janitza L Montalvo-Ortiz
+  - Niamh Mullins
+  - Caroline M Nievergelt
+  - Kevin S O'Connell
+  - Michael C O'Donovan
+  - Adeniran Okewole
+  - Roseann E Peterson
+  - Danielle Posthuma
+  - Jonathan Sebat
+  - Jordan W Smoller
+  - Reeteka Sud
+  - Biju Viswanath
+  - James T R Walters
+  - Hyejung Won
+  - Naomi R Wray
+  - Patrick F Sullivan
+  publisher: The lancet. Psychiatry
+  date: '2025-06-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40582370
   orcid: 0000-0002-1939-7525
   member: maryellenlynall
   plugin: orcid.py
@@ -198,53 +210,6 @@
   member: maryellenlynall
   plugin: orcid.py
   file: orcid.yaml
-- id: ppr:PPR973163
-  title: 'The Psychiatric Genomics Consortium: Discoveries and Direction'
-  authors:
-  - Arpana Agrawal
-  - Cynthia Bulik
-  - Dawit Shawel Abebe
-  - Ole Andreassen
-  - Elizabeth Atkinson
-  - Karmel Choi
-  - Aiden Corvin
-  - Helena Davies
-  - Lea Davis
-  - Anna Docherty
-  - Howard Edenberg
-  - Barbara Franke
-  - Joel Gelernter
-  - Paola Giusti-Rodriguez
-  - John Hettema
-  - Jens Hjerling-Leffler
-  - Hailiang Huang
-  - Emma Johnson
-  - Cathryn Lewis
-  - Mary-Ellen Lynall
-  - Andrew Mcintosh
-  - Janitza Montalvo-Ortiz
-  - Niamh Mullins
-  - Caroline Nievergelt
-  - "Kevin O\u2019Connell"
-  - "Michael O\u2019Donovan"
-  - Adeniran Okewole
-  - Roseann Elizabeth Peterson
-  - Danielle Posthuma
-  - Jonathan Sebat
-  - Jordan Smoller
-  - Reeteka Sud
-  - Biju Viswanath
-  - James Walters
-  - Hyejung Won
-  - Lu Yi
-  - Patrick Sullivan
-  publisher: ''
-  date: '2025-01-01'
-  link: https://doi.org/10.31234/osf.io/xykj2_v1
-  orcid: 0000-0002-1939-7525
-  member: maryellenlynall
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.17605/osf.io/eydvh
   title: 'DEPICT: Depression, epigenetics, and childhood trauma'
   authors:
@@ -256,6 +221,25 @@
   publisher: OSF Registries
   date: '2025-01-01'
   link: https://doi.org/hbb675
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.BBIH.2025.101146
+  title: Inflammatory profiles of transdiagnostic symptom dimensions in healthy females
+  authors:
+  - Alicia J. Smith
+  - Stacey Kigar
+  - Quentin Dercon
+  - Mary-Ellen Lynall
+  - Konstantinos Ioannidis
+  - Muzaffer Kaser
+  - Caitlin Hitchcock
+  - Tim Dalgleish
+  - Camilla L. Nord
+  publisher: Brain, Behavior, &amp; Immunity - Health
+  date: '2025-12-01'
+  link: https://doi.org/hcpc7n
   orcid: 0000-0002-1939-7525
   member: maryellenlynall
   plugin: orcid.py
@@ -285,32 +269,6 @@
   publisher: Elsevier
   date: '2025-01-01'
   link: https://doi.org/hbn9rw
-  orcid: 0000-0002-1939-7525
-  member: maryellenlynall
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2024.08.30.610447
-  title: Chronic social defeat stress induces meningeal neutrophilia via type I interferon
-    signaling
-  authors:
-  - Stacey L. Kigar
-  - Mary-Ellen Lynall
-  - Allison E. DePuyt
-  - Robert Atkinson
-  - Virginia H. Sun
-  - Joshua D. Samuels
-  - Nicole E. Eassa
-  - Chelsie N. Poffenberger
-  - Michael L. Lehmann
-  - Samuel J. Listwak
-  - Ferenc Livak
-  - Abdel G. Elkahloun
-  - Menna R. Clatworthy
-  - Edward T. Bullmore
-  - Miles Herkenham
-  publisher: openRxiv
-  date: '2024-08-31'
-  link: https://doi.org/g9hf8q
   orcid: 0000-0002-1939-7525
   member: maryellenlynall
   plugin: orcid.py
@@ -371,7 +329,7 @@
   member: maryellenlynall
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/s41467-022-33885-7
+- id: doi:10.1038/S41467-022-33885-7
   title: Genetic variants associated with psychiatric disorders are enriched at epigenetically
     active sites in lymphoid cells
   authors:
@@ -394,7 +352,7 @@
   member: maryellenlynall
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/s41380-021-01412-7
+- id: doi:10.1038/S41380-021-01412-7
   title: Methylome-wide association study of antidepressant use in Generation Scotland
     and the Netherlands Twin Register implicates the innate immune system
   authors:
@@ -422,25 +380,13 @@
   member: maryellenlynall
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.17863/cam.74520
-  title: Dysconnectivity of a brain functional network was associated with blood inflammatory
-    markers in depression.
-  authors:
-  - Athina R Aruldass
-  - Manfred G Kitzbichler
-  - Sarah E Morgan
-  - Sol Lim
-  - Mary-Ellen Lynall
-  - Lorinda Turner
-  - Petra Vertes
-  - Jonathan Cavanagh
-  - Phil Cowen
-  - Carmine M Pariante
-  - Neil A Harrison
-  - Edward T Bullmore
+- id: doi:10.17863/cam.73874
+  title: B-cells are abnormal in psychosocial stress and regulate meningeal myeloid
+    cell activation.
+  authors: []
   publisher: Elsevier
-  date: '2021-08-23'
-  link: https://doi.org/hbb677
+  date: '2021-08-06'
+  link: https://doi.org/hcpc7p
   orcid: 0000-0002-1939-7525
   member: maryellenlynall
   plugin: orcid.py
@@ -513,35 +459,6 @@
   member: maryellenlynall
   plugin: orcid.py
   file: orcid.yaml
-- id: ppr:PPR222070
-  title: Methylome-wide association study of antidepressant use in Generation Scotland
-    and the Netherlands Twin Register implicates the innate immune syste
-  authors:
-  - MC Barbu
-  - F. Huider
-  - A. Campbell
-  - C. Amador
-  - MJ Adams
-  - ME Lynall
-  - ME Lynall
-  - DM Howard
-  - RM Walker
-  - SW Morris
-  - Dongen J. Van
-  - DJ Porteous
-  - KL Evans
-  - E. Bullmore
-  - G. Willemsen
-  - DI Boomsma
-  - HC Whalley
-  - AM McIntosh
-  publisher: ''
-  date: '2020-01-01'
-  link: https://doi.org/10.1101/2020.10.06.20207621
-  orcid: 0000-0002-1939-7525
-  member: maryellenlynall
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmid:32950620
   title: 'Inflammatory and cardiometabolic markers at presentation with first episode
     psychosis and long-term clinical outcomes: A longitudinal study using electronic
@@ -583,30 +500,6 @@
   member: maryellenlynall
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.17863/cam.46810
-  title: Peripheral Blood Cell-Stratified Subgroups of Inflamed Depression.
-  authors:
-  - Mary-Ellen Lynall
-  - Lorinda Turner
-  - Junaid Bhatti
-  - Jonathan Cavanagh
-  - Peter de Boer
-  - Valeria Mondelli
-  - Declan Jones
-  - Wayne C Drevets
-  - Philip Cowen
-  - Neil A Harrison
-  - Carmine M Pariante
-  - Linda Pointon
-  - Menna R Clatworthy
-  - Edward Bullmore
-  publisher: Elsevier
-  date: '2019-12-12'
-  link: https://doi.org/hbb678
-  orcid: 0000-0002-1939-7525
-  member: maryellenlynall
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmid:32000983
   title: Peripheral Blood Cell-Stratified Subgroups of Inflamed Depression.
   authors:
@@ -627,6 +520,211 @@
   publisher: Biological psychiatry
   date: '2019-12-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32000983
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/BRAIN/AWZ241
+  title: CSF1R inhibitor JNJ-40346527 attenuates microglial proliferation and neurodegeneration
+    in P301S mice
+  authors:
+  - Renzo Mancuso
+  - Gemma Fryatt
+  - Madeleine Cleal
+  - Juliane Obst
+  - Elena Pipi
+  - "Jimena Monz\xF3n-Sandoval"
+  - Elena Ribe
+  - Laura Winchester
+  - Caleb Webber
+  - Alejo Nevado
+  - Tom Jacobs
+  - Nigel Austin
+  - Clara Theunis
+  - Karolien Grauwen
+  - Eva Daniela Ruiz
+  - Amrit Mudher
+  - Marta Vicente-Rodriguez
+  - Christine A Parker
+  - Camilla Simmons
+  - Diana Cash
+  - Jill Richardson
+  - Edward T Bullmore
+  - Junaid Bhatti
+  - Samuel J Chamberlain
+  - Marta M Correia
+  - Anna L Crofts
+  - Amber Dickinson
+  - Andrew C Foster
+  - Manfred G Kitzbichler
+  - Clare Knight
+  - Mary-Ellen Lynall
+  - Christina Maurice
+  - Ciara O'Donnell
+  - Linda J Pointon
+  - Peter St George Hyslop
+  - Lorinda Turner
+  - Petra Vertes
+  - Barry Widmer
+  - Guy B Williams
+  - B Paul Morgan
+  - Claire A Leckey
+  - Angharad R Morgan
+  - Caroline O'Hagan
+  - Samuel Touchard
+  - Jonathan Cavanagh
+  - Catherine Deith
+  - Scott Farmer
+  - John McClean
+  - Alison McColl
+  - Andrew McPherson
+  - Paul Scouller
+  - Murray Sutherland
+  - H W G M (Erik) Boddeke
+  - Jill C Richardson
+  - Shahid Khan
+  - Phil Murphy
+  - Christine A Parker
+  - Jai Patel
+  - Declan Jones
+  - Peter de Boer
+  - John Kemp
+  - Wayne C Drevets
+  - Jeffrey S Nye
+  - Gayle Wittenberg
+  - John Isaac
+  - Anindya Bhattacharya
+  - Nick Carruthers
+  - Hartmuth Kolb
+  - Carmine M Pariante
+  - Federico Turkheimer
+  - Gareth J Barker
+  - Heidi Byrom
+  - Diana Cash
+  - Annamaria Cattaneo
+  - Antony Gee
+  - Caitlin Hastings
+  - Nicole Mariani
+  - Anna McLaughlin
+  - Valeria Mondelli
+  - Maria Nettis
+  - Naghmeh Nikkheslat
+  - Karen Randall
+  - Hannah Sheridan
+  - Camilla Simmons
+  - Nisha Singh
+  - Victoria Van Loo
+  - Marta Vicente-Rodriguez
+  - Tobias C Wood
+  - Courtney Worrell
+  - Zuzanna Zajkowska
+  - Niels Plath
+  - Jan Egebjerg
+  - Hans Eriksson
+  - Francois Gastambide
+  - Karen Husted Adams
+  - Ross Jeggo
+  - Christian Thomsen
+  - Jan Torleif Pederson
+  - Brian Campbell
+  - "Thomas M\xF6ller"
+  - Bob Nelson
+  - Stevin Zorn
+  - Jason O'Connor
+  - Mary Jane Attenburrow
+  - Alison Baird
+  - Jithen Benjamin
+  - Stuart Clare
+  - Philip Cowen
+  - I-Shu (Dante) Huang
+  - Samuel Hurley
+  - Helen Jones
+  - Simon Lovestone
+  - Francisca Mada
+  - Alejo Nevado-Holgado
+  - Akintayo Oladejo
+  - Elena Ribe
+  - Katy Smith
+  - Anviti Vyas
+  - Zoe Hughes
+  - Rita Balice-Gordon
+  - James Duerr
+  - Justin R Piro
+  - Jonathan Sporn
+  - V Hugh Perry (PI
+  - Madeleine Cleal
+  - Gemma Fryatt
+  - Diego Gomez-Nicola
+  - Renzo Mancuso
+  - Richard Reynolds
+  - Neil A Harrison
+  - Mara Cercignani
+  - Charlotte L Clarke
+  - Elizabeth Hoskins
+  - Charmaine Kohn
+  - Rosemary Murray
+  - Lauren Wilcock
+  - Dominika Wlazly
+  - Howard Mount
+  - Declan N C Jones
+  - Simon Lovestone
+  - "Diego G\xF3mez-Nicola"
+  - V Hugh Perry
+  publisher: Brain
+  date: '2019-08-26'
+  link: https://doi.org/gjpj9t
+  orcid: 0000-0002-1939-7525
+  member: maryellenlynall
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JALZ.2019.03.007
+  title: Inflammatory biomarkers in Alzheimer's disease plasma
+  authors:
+  - Angharad R. Morgan
+  - Samuel Touchard
+  - Claire Leckey
+  - Caroline O'Hagan
+  - "Alejo J. Nevado\u2010Holgado"
+  - Frederik Barkhof
+  - Lars Bertram
+  - Olivier Blin
+  - Isabelle Bos
+  - Valerija Dobricic
+  - Sebastiaan Engelborghs
+  - Giovanni Frisoni
+  - "Lutz Fr\xF6lich"
+  - Silvey Gabel
+  - Peter Johannsen
+  - Petronella Kettunen
+  - "Iwona K\u0142oszewska"
+  - "Cristina Legido\u2010Quigley"
+  - "Alberto Lle\xF3"
+  - "Pablo Martinez\u2010Lage"
+  - Patrizia Mecocci
+  - Karen Meersmans
+  - "Jos\xE9 Luis Molinuevo"
+  - Gwendoline Peyratout
+  - Julius Popp
+  - Jill Richardson
+  - Isabel Sala
+  - Philip Scheltens
+  - Johannes Streffer
+  - Hikka Soininen
+  - "Mikel Tainta\u2010Cuezva"
+  - Charlotte Teunissen
+  - Magda Tsolaki
+  - Rik Vandenberghe
+  - Pieter Jelle Visser
+  - Stephanie Vos
+  - "Lars\u2010Olof Wahlund"
+  - Anders Wallin
+  - Sarah Westwood
+  - Henrik Zetterberg
+  - Simon Lovestone
+  - B. Paul Morgan
+  publisher: Alzheimer's &amp; Dementia
+  date: '2019-04-29'
+  link: https://doi.org/ghs4m6
   orcid: 0000-0002-1939-7525
   member: maryellenlynall
   plugin: orcid.py
