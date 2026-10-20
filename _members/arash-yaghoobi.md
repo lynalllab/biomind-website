@@ -1,7 +1,7 @@
 ---
 name: Arash Yaghoobi
 image: images/photo_ArashYaghoobi.jpg
-description: Research Assistant
+description: Research Assistant and PhD student
 role: research-assistant and PhD student
 affiliation: University of Cambridge
 links:
