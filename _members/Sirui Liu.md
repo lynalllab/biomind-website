@@ -3,7 +3,7 @@ name: Sirui Liu
 image: images/Sirui Liu.jpg
 affiliation: University of Cambridge
 description: MPhil student
-role: MPhil
+role: MPhil student
 links:
   orcid:
 ---
