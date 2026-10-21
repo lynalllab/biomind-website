@@ -1,5 +1,5 @@
 ---
-name: Josephile Eum
+name: Josephine Eum
 image: images/Josephine Eum.jpeg
 affiliation: University of Cambridge
 description: PhD student
