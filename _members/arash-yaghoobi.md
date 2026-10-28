@@ -2,7 +2,7 @@
 name: Arash Yaghoobi
 image: images/photo_ArashYaghoobi.jpg
 description: Research Assistant and PhD student
-role: research-assistant and PhD student
+role: phd
 affiliation: University of Cambridge
 links:
   orcid: 0000-0001-9071-8590
