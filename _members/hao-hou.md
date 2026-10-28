@@ -2,8 +2,8 @@
 name: Hao Hou
 affiliation: Wuhan University
 image: images/photo_HaoHou.jpeg
-description: Visiting researcher
-role: phdstudent
+description: Post-doctoral researcher
+role: Post-doctoral researcher
 links:
   orcid:
 ---
