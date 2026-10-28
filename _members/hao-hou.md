@@ -3,7 +3,7 @@ name: Hao Hou
 affiliation: University of Cambridge
 image: images/photo_HaoHou.jpeg
 description: Post-doctoral researcher
-role: Post-doctoral researcher
+role: postdoc
 links:
   orcid:
 ---
