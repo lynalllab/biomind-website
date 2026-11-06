@@ -1,5 +1,5 @@
 ---
-name: Yuzhuo Zhang 
+name: Yuzhuo Zhang
 image: images/Yuzhuo.jpg
 affiliation: University of Cambridge
 description: PhD student
