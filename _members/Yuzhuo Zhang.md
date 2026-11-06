@@ -3,7 +3,7 @@ name: Yuzhuo Zhang
 image: images/Yuzhuo.jpeg
 affiliation: University of Cambridge
 description: PhD student
-role: phd
+role: phd 
 links:
   orcid:
 ---
