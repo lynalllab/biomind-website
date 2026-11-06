@@ -1,6 +1,6 @@
 ---
 name: Yuzhuo Zhang
-image: images/Yuzhuo.jpg
+image: images/Yuzhuo.jpeg
 affiliation: University of Cambridge
 description: PhD student
 role: phd
