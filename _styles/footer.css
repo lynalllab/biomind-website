@@ -7,10 +7,14 @@ footer {
   padding: 40px;
   line-height: var(--spacing);
   box-shadow: var(--shadow);
+  background-image: url("/images/background.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
 }
 
 footer a {
-  color: var(--text) !important;
+  color: #ffffff !important;
 }
 
 footer a:hover {
@@ -19,6 +23,7 @@ footer a:hover {
 
 footer .icon {
   font-size: var(--xl);
+  color: #ffffff;
 }
 
 /*# sourceMappingURL=footer.css.map */
