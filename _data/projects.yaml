@@ -29,16 +29,7 @@
   tags:
     - project
 
-- title: Infections and mood
-  subtitle: 
-  image: images/Mood.jpg
-  link: 
-  description: We are using data from large-scale biobanks to investigate how infection-related effects change over time and influence mood. 
-  repo: 
-  tags:
-    - project
-
-- title: Open Psychiatry Project (2026-2029)
+    - title: Open Psychiatry Project (2026-2029)
   subtitle: A single front door to mental health discovery
   group: 
   image: images/OPP.png
@@ -47,6 +38,16 @@
   repo: 
   tags:
     - project
+
+- title: Infections and mood
+  subtitle:  
+  image: images/Mood.jpg
+  link: 
+  description: We are using data from large-scale biobanks to investigate how infection-related effects change over time and influence mood. 
+  repo: 
+  tags:
+    - project
+
 
 # tags:
 #    - software
